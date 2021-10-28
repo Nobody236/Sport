@@ -1,0 +1,46 @@
+{
+  "canais": [
+    {
+      "nome": "SPORT TV",
+      "foto": "https://multicanais.tv/wp-content/uploads/2019/04/assistir-sportv-ao-vivo-online-1-366x205.png",
+      "url": "https://dtv-latam-jbc.akamaized.net/dash/live/2004561/sky/dtvlatam-sportvhd/1635366816/720p-30fps-3500k-11627.mp4",
+      "sobre": "TV Cultura (também conhecida como Rede Cultura) é uma rede de televisão pública brasileira sediada em São Paulo, capital do estado homônimo. ... No dia 30 de janeiro de 2015, o instituto de pesquisa britânico Populus divulgou que a TV Cultura é o segundo canal de maior qualidade do mundo, atrás apenas da BBC One.",
+      "ano": "1960"
+    },
+    {
+      "nome": "TV SPORT 2",
+      "foto": "https://static.futemax.gratis/wp-content/uploads/60858536484a1fe79b324ccc40816af4.jpg",
+      "url": "https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8.m3u8",
+      "sobre": "TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior.",
+      "ano": "1965"
+    },
+    {
+      "nome": "COMBATE",
+      "foto": "https://static.futemax.gratis/wp-content/uploads/6757a5df49893ab0b6da3227f94faaae.jpg",
+      "url": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8",
+      "sobre": "Record TV é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial de 2012. Em 2010, foi eleita pelo mercado publicitário como a quinta maior emissora do mundo em faturamento e a oitava maior rede em estrutura física.",
+      "ano": "1953"
+    },
+    {
+      "nome": "FOX HD",
+      "foto": "https://static.futemax.gratis/wp-content/uploads/972abf6af58a51b0d70a177f6b75ebc6.jpg",
+      "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8",
+      "sobre": "Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.",
+      "ano": "1981"
+    },
+    {
+      "nome": "FOX CHANNEL",
+      "foto": "https://static.futemax.gratis/wp-content/uploads/c8b7ed5471531cfd341c6baea33920ea.jpg",
+      "url": "https://geralorigin.eu-central-1.edge.mycdn.live/live/foxsd/video.m3u8?md5\u003dNPDoEzkAhSEPDry9OT_EXw\u0026expires\u003d1635474232",
+      "sobre": "Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes. Entrou no ar no dia 13 de maio de 1967 pelo canal 13 VHF. Seu fundador foi João Jorge Saad, que contou com a ajuda do sogro, o político Ademar de Barros, antigo proprietário da Rádio Bandeirantes.",
+      "ano": "1967"
+    },
+    {
+      "nome": "SBT PI",
+      "foto": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png",
+      "url": "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8",
+      "sobre": "Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.",
+      "ano": "1981"
+    }
+  ]
+}
